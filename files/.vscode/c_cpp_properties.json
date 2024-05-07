@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "intro-cpp",
+            "includePath": [
+                "../tclap-1.4.0-rc1/include"
+            ],
+            "intelliSenseMode": "${default}",
+            "cStandard": "${default}",
+            "cppStandard": "c++17",
+            "compilerPath": "${default}"
+        }
+    ],
+    "version": 4
+}
